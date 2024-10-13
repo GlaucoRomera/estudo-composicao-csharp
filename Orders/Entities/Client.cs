@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Orders
+namespace Orders.Entities
 {
     internal class Client
     {

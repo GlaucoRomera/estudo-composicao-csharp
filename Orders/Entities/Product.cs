@@ -1,4 +1,4 @@
-﻿namespace Orders
+﻿namespace Orders.Entities
 {
     internal class Product
     {

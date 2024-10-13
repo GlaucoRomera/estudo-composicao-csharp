@@ -1,12 +1,12 @@
-﻿using Orders;
-using Orders.Enums;
+﻿using Orders.Entities;
+using Orders.Entities.Enums;
 
 Console.WriteLine("Enter client data: ");
 Console.WriteLine("Name: ");
 string name = Console.ReadLine()!;
 Console.WriteLine("Email: ");
 string email = Console.ReadLine()!;
-Console.WriteLine("Birth date (DD/MM/YYYY: ");
+Console.WriteLine("Birth date (DD/MM/YYYY): ");
 string birthDate = Console.ReadLine()!;
 DateTime birth = DateTime.Parse(birthDate);
 Console.WriteLine("Enter order data:");

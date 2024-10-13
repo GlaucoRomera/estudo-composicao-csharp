@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Me\\source\\repos\\Orders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|c:\\users\\me\\source\\repos\\orders\\orders\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B865E-667D-4A29-A9DB-7E5ED2EFF5AC}|Orders\\Orders.csproj|solutionrelative:orders\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,24 +42,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Program.cs",
-              "RelativeDocumentMoniker": "Orders\\Program.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Program.cs",
-              "RelativeToolTip": "Orders\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Program.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\Program.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Program.cs",
+              "RelativeToolTip": "Orders\\Entities\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:54:49.74Z"
+              "WhenOpened": "2024-10-09T20:54:49.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Orders\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:55:41.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Product.cs",
-              "RelativeDocumentMoniker": "Orders\\Product.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Product.cs",
-              "RelativeToolTip": "Orders\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Product.cs",
+              "RelativeToolTip": "Orders\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T19:59:00.781Z",
@@ -67,51 +81,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Orders\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\OrderItem.cs",
-              "RelativeToolTip": "Orders\\OrderItem.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:55:41.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Order.cs",
-              "RelativeDocumentMoniker": "Orders\\Order.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Order.cs",
-              "RelativeToolTip": "Orders\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Order.cs",
+              "RelativeToolTip": "Orders\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:55:31.898Z"
+              "WhenOpened": "2024-10-09T20:55:31.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Client.cs",
-              "RelativeDocumentMoniker": "Orders\\Client.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Client.cs",
-              "RelativeToolTip": "Orders\\Client.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Client.cs",
+              "RelativeToolTip": "Orders\\Entities\\Client.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:55:22.557Z"
+              "WhenOpened": "2024-10-09T20:55:22.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Orders\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Orders\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Orders\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Me\\source\\repos\\Orders\\Orders\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Orders\\Entities\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T20:55:59.232Z"
+              "WhenOpened": "2024-10-09T20:55:59.232Z",
+              "EditorCaption": ""
             }
           ]
         }

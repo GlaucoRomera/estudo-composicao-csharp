@@ -1,9 +1,9 @@
-﻿using Orders.Enums;
-using System.Text;
+﻿using System.Text;
 using System.Collections;
 using System.Globalization;
+using Orders.Entities.Enums;
 
-namespace Orders
+namespace Orders.Entities
 {
     internal class Order
     {
@@ -11,7 +11,7 @@ namespace Orders
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
 
-        List<OrderItem> Items { get; set; } = new List<OrderItem>();
+        private List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
 
         public Order()
@@ -51,7 +51,7 @@ namespace Orders
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyy HH:mm:ss"));
-            sb.AppendLine("Order status: " + Status.ToString());
+            sb.AppendLine("Order status: " + Status);
             sb.AppendLine("Client: " + Client);
             sb.AppendLine("Order Items:");
             foreach (OrderItem item in Items)

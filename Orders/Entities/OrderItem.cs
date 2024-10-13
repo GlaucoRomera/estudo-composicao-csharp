@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Orders
+namespace Orders.Entities
 {
     internal class OrderItem
     {
